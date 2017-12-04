@@ -8,4 +8,5 @@
 ```
 print("Hello World")
 ```
-    ![Setup Image](https://raw.githubusercontent.com/AyushKSinghal/ML-basics/master/0_setup/img/run.png)
+
+   ![Setup Image](https://raw.githubusercontent.com/AyushKSinghal/ML-basics/master/0_setup/img/run.png)
