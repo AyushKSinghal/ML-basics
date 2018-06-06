@@ -7,10 +7,13 @@ Welcome to ML basic course. As part of the set-up process I request you to insta
  
 Environment setup steps:
 1. Install anaconda https://www.anaconda.com/download/#macos
-2. Create new environment using python 3.5.
-3. Install below highlighted plugins
-4. Install and launch jupyter notebook
- 
+2. Create new environment using python 3.5. Go to environment and click on create and follow through wizard.
+![python 3.5 env](https://github.com/AyushKSinghal/ML-basics/raw/master/setup_files/envSetup.png "python 3.5 env")
 
-The repo that we will be using is:
-https://github.com/AyushKSinghal/ML-basics 
+3. Install below highlighted plugins. Click on newly created environment, select “not installed”, look for above mentioned python modules and follow through wizard.
+![module install](https://github.com/AyushKSinghal/ML-basics/raw/master/setup_files/modulesSetup.png "module install")
+
+4. Install and launch jupyter notebook. Go to home and click on jupyter notebook install button
+![launch jupyter notebook](https://github.com/AyushKSinghal/ML-basics/raw/master/setup_files/notebookSetup.png "launch jupyter notebook")
+
+Repo we will be using for sharing material: https://github.com/AyushKSinghal/ML-basics 
