@@ -3,7 +3,7 @@
 Welcome to ML basic course. As part of the set-up process I request you to install the following modules: -
 1. Python: https://www.python.org/
 2. Anaconda: https://www.anaconda.com/download/#macos
-3. Python modules: NumPy, Pandas, statsmodels, Matplotlib, and Scikit-Learn
+3. Python modules: NumPy, Pandas, statsmodels, Matplotlib, TensorFlow, Keras and Scikit-Learn
  
 Environment setup steps:
 1. Install anaconda https://www.anaconda.com/download/#macos
