@@ -16,4 +16,6 @@ Environment setup steps:
 4. Install and launch jupyter notebook. Go to home and click on jupyter notebook install button
 ![launch jupyter notebook](https://github.com/AyushKSinghal/ML-basics/raw/master/setup_files/notebookSetup.png "launch jupyter notebook")
 
+5. Download dataset from https://www.dropbox.com/s/0rrqvtod61w7uhn/dataset.zip?dl=0
+
 Repo we will be using for sharing material: https://github.com/AyushKSinghal/ML-basics 
